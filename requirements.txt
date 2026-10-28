@@ -1,0 +1,26 @@
+# ============================================================
+# requirements.txt — Rule-Based AI Chatbot
+# DecodeLabs Internship | Project 01
+# ============================================================
+#
+# This project has NO external dependencies.
+#
+# It uses only Python's built-in standard library modules:
+#
+#   - datetime  →  Used to show the current time and date.
+#                  This module comes pre-installed with Python.
+#                  No separate installation is needed.
+#
+# ✅ To run this project, you only need:
+#
+#       Python 3.6 or higher
+#
+#    Download Python from: https://www.python.org/downloads/
+#
+# ✅ You do NOT need to run:
+#
+#       pip install -r requirements.txt
+#
+#    (There is nothing to install.)
+#
+# ============================================================
